@@ -1,0 +1,1 @@
+document.querySelector(".logo").innerHTML = ' <img href="creatorlist.art" src="assets/logo.png" style="max-width:460px;"></img> ';

@@ -20,6 +20,10 @@ body {
     font-size: 18px;
 }
 
+.contact {
+  visibility: hidden;
+}
+
 .main {
   border: 2px solid #000000;
   padding: 2%;

@@ -1,1 +1,2 @@
 document.querySelector(".logo").innerHTML = ' <img href="creatorlist.art" src="assets/logo.png" style="max-width:460px;"></img> ';
+document.querySelector(".footer").innerHTML = ' <p style="text-align:center;">This website is fictional and only serves as a demonstration for a hypothetical business.</p>';

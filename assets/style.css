@@ -1,18 +1,30 @@
+th {
+    background-color: C1CCFF;
+}
+
+td, th {
+    text-align: left;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
 body {
   background-color: #F7F7F7;
   color: #1C1C1C;
   padding: 1%;
   letter-spacing: 1px;
   word-spacing: 1px;
+  font-family: helvetica;
+    font-size: 18px;
 }
 
 .main {
   border: 2px solid #000000;
   padding: 2%;
   margin: 3%;
-  font-family: helvetica;
-  font-style: normal;
   font-weight: bold;
-  font-size: 18px;
   border-radius: 10px;
 }
+
